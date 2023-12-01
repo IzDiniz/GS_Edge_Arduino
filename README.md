@@ -11,3 +11,5 @@ ou seja, enquanto o estoque for esvaziando, o circuito irá demonstrar pelos Led
 o Buzzer/Piezo vai ativar um som, isso significa que o estoque estará quase vazio.
 
 Simulador do TinkerCad: https://www.tinkercad.com/things/9yV3T96NehG-sistema-gs
+
+vídeo Arduíno: https://www.youtube.com/watch?v=03UzCH7PW5s
